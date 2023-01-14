@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Adam S E Alderton"
+title: "Adam Alderton"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
