@@ -5,17 +5,19 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+minimal_mistakes_skin    : "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
 locale                   : "en-UK"
 title                    : "Adam Alderton"
 title_separator          : "-"
 name                     : &name "Adam Alderton"
-description              : &description "PhD student"
+description              : &description "PhD Student in Quantum Networking"
 url                      : "https://adamalderton.github.io"
 baseurl                  : ""
 repository               : "adamalderton/adamalderton.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts

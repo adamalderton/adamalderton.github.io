@@ -1,1 +1,1 @@
-A personal website built with Jekyll, hosted by GitHub at [https://adamalderton.github.io](https://adamalderton.github.io). This is built using the *academic pages* template provided by Stuart Geiger [here](https://github.com/academicpages/academicpages.github.io).
+A personal website built with Jekyll, hosted by GitHub at [https://adamalderton.github.io](https://adamalderton.github.io). This built with the *academic pages* template provided by Stuart Geiger [here](https://github.com/academicpages/academicpages.github.io).
