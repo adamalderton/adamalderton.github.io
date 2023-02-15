@@ -1,4 +1,8 @@
-# Problem Sheet 4 - Multivariate Calculus 1
+---
+title: "Problem Sheet 3 - Multivariate Calculus 1"
+excerpt: 
+collection: chas_problems
+---
 
 ## 1)
 

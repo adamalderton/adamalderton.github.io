@@ -1,4 +1,8 @@
-# Problem Sheet 3 - Calculus 3
+---
+title: "Problem Sheet 2 - Calculus 2"
+excerpt: 
+collection: chas_problems
+---
 
 This problem sheet should test you on all previous knowledge in the course! Topics people struggled on are more frequent in this problem sheet.
 

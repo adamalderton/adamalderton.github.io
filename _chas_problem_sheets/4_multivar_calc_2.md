@@ -1,4 +1,8 @@
-# Problem Sheet 5 - Multivariate Calculus 2
+---
+title: "Problem Sheet 4 - Multivariate Calculus 2"
+excerpt: 
+collection: chas_problems
+---
 
 ## 1)
 Convert the following two-dimensional points from a cartesian coordinate representation to a polar coordinate representation. Angles considered should be in radians.

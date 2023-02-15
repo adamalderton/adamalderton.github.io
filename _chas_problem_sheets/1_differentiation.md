@@ -1,4 +1,8 @@
-# Problem Sheet 2 - Calculus 2
+---
+title: "Problem Sheet 1 - Calculus 1"
+excerpt: 
+collection: chas_problems
+---
 
 ---
 ## Basic Differentation Revision Questions
