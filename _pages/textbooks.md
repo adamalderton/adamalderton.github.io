@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-This is a list of my recommended textbooks!
+This page is under construction!
