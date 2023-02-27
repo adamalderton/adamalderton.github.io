@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Blog"
-permalink: /blog/
+title: "Engagement"
+permalink: /engagement/
 author_profile: true
 ---
 
