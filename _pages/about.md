@@ -12,6 +12,6 @@ I am a PhD researcher at the University of Cambridge supervised by Dr. Adrian Wo
 
 I am interested in the physics, engineering and computer science of continuous-variable quantum networks with particular application to quantum cryptography. Some related notes, updated on occasion, can be found ~~here~~ (Link update soon). I've also compiled a list of recommended textbooks which can be found ~~here~~ (Link update soon).
 
-I am a member of Gonville & Caius college, a student member of the IEEE and a member of the IoP.
+I am a member of Gonville & Caius college, a student member of the IEEE and a member of the Institute of Physics.
 
 Please feel free to get in touch with me via my [email](mailto:aa2301@cam.ac.uk).
