@@ -84,9 +84,9 @@ analytics:
 author:
   name             : "Adam Alderton"
   avatar           : "website_profile_cropped.jpg"
-  bio              : "Quantum Networking <br> University of Cambridge"
+  bio              : "Quantum Cryptography and Networking"
   location         : "Cambridge, UK"
-  employer         :
+  employer         : "University of Cambridge"
   pubmed           : 
   googlescholar    : 
   email            : "aa2301@cam.ac.uk"
@@ -111,7 +111,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "asealderton"
+  # twitter          : "asealderton"
   vine             :
   weibo            :
   xing             :
